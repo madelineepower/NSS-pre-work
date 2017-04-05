@@ -18,20 +18,21 @@ div#header {
   text-shadow: 3px 5px 3px black;
 }
 
-div#header h1 {
-  color: black;
-}
-.special {
+header {
+  /*color: black;*/
   font-family: Helvetica, sans-serif;
   font-size: 0.4em;
   color: white;
+  border: 2px solid red;
 }
-
-.heading {
+.special {
+  border: 2px solid green;
+}
+ /*{
   border-top: 2px solid white;
   padding-top: .2em;
   color: white;
-}
+}*/
 
 div#navbar {
   width: 69%;
