@@ -1,0 +1,109 @@
+body {
+  background-color: white;
+}
+div#header {
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 2em;
+  width: 70%;
+  text-align: center;
+  margin: auto;
+  opacity: .85em;
+  padding: 3.3em 0 3.3em 0;
+  line-height: 2.5em;
+  background:
+  url("http://www.townsquarebuzz.com/wp-content/uploads/2013/08/Arts-Design-District-Arch-2.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  opacity: 0.93;
+  text-shadow: 3px 5px 3px black;
+}
+
+div#header h1 {
+  color: black;
+}
+.special {
+  font-family: Helvetica, sans-serif;
+  font-size: 0.4em;
+  color: white;
+}
+
+.heading {
+  border-top: 2px solid white;
+  padding-top: .2em;
+  color: white;
+}
+
+div#navbar {
+  width: 69%;
+  margin: auto;
+  margin-top: .5em;
+  margin-bottom: .5em;
+  text-align: right;
+  background-color: darkred;
+  opacity: .8;
+  padding: .5em;
+}
+
+div#navbar ul li a {
+  font-family: Helvetica, sans-serif;
+  list-style-type: none;
+  color: white;
+  font-size: 1em;
+  text-decoration: none;
+}
+
+div#navbar ul li {
+  display: inline;
+  color: white;
+}
+
+div#navbar li {
+  margin-right: 1.4em;
+}
+
+div#body {
+  width: 68%;
+  text-align: center;
+  background-color: lightgray;
+  opacity: .8;
+  color: black;
+  margin: auto;
+  padding: 1em;
+}
+
+h2.subtitle {
+  font-family: Helvetica, sans-serif;
+  font-size: 1.5em;
+}
+
+p.info {
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+ul.attractions {
+  font-family: "Roboto Condensed", sans-serif;
+  text-align: left;
+}
+
+.emphasized {
+  color: darkred;
+}
+
+div#footer {
+  width: 71%;
+  margin: auto;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+div#footer ul li {
+  display: inline;
+  list-style-type: none;
+  font-family: "Roboto Condensed", sans-serif;
+  font-size: 1em;
+}
+
+div#footer li {
+  margin-right: 1em;
+}
